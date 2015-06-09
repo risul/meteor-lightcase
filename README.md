@@ -1,7 +1,7 @@
-# Slick for Meteor
+# Lightcase for Meteor
 
 Lightcase.js - Beautiful, flexible and responsive Lightbox Plugin to present various types of content famously.
-[Demo](http://cornel.bopp-art.com/lightcase/#demo) - [Documentaion](http://cornel.bopp-art.com/lightcase/documentation/) - [API](http://cornel.bopp-art.com/lightcase/documentation/#api)
+Demo: [http://cornel.bopp-art.com/lightcase/#demo](http://cornel.bopp-art.com/lightcase/#demo)
 
 ## Installing
 
