@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'lightcase';
+  src: url('/packages/risul_lightcase/lib/fonts/lightcase.eot?55356177');
+  src: url('/packages/risul_lightcase/lib/fonts/lightcase.eot?55356177#iefix') format('embedded-opentype'),
+       url('/packages/risul_lightcase/lib/fonts/lightcase.woff?55356177') format('woff'),
+       url('/packages/risul_lightcase/lib/fonts/lightcase.ttf?55356177') format('truetype'),
+       url('/packages/risul_lightcase/lib/fonts/lightcase.svg?55356177#lightcase') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
